@@ -4,6 +4,12 @@
 ![AIT-StrategyX](https://github.com/aitrailblazer/AIT-StrategyX/blob/main/images//StrategyX.png?raw=true)
 
 
+[AIT-StrategyX](https://chat.openai.com/g/g-D8ojucjoB-ait-strategix)
+
+[AIT-StrategyX - Case - law](https://github.com/aitrailblazer/AIT-StrategyX/blob/main/AIT-StrategyX-case-law_2015-2020_vol_ii.pdf)
+
+https://chat.openai.com/g/g-D8ojucjoB-ait-strategix
+
 ## Introduction
 Welcome to the AIT-StrategiX repository. This tool is designed for advanced strategic analysis, utilizing artificial intelligence to assist users in navigating complex strategic environments. AIT-StrategiX applies a systematic approach, integrating various analytical methodologies to deliver comprehensive insights.
 
@@ -28,8 +34,6 @@ To begin using AIT-StrategiX:
 - `/q`: Generates a strategic payoff matrix.
 - `/qs`: Provides a summary of the generated payoff matrix.
 
-## Contributing
-Contributions are welcome! Please adhere to the project's contribution guidelines. For more information, see [CONTRIBUTING.md](URL-to-CONTRIBUTING.md).
 
 ## License
 This project is licensed under the [LICENSE-NAME]. See the [LICENSE](URL-to-LICENSE) file for details.
