@@ -6,6 +6,11 @@
 
 [AIT-StrategyX](https://chat.openai.com/g/g-D8ojucjoB-ait-strategix)
 
+
+[CPVO Case-Law
+Vol. II 2015–2020](https://github.com/aitrailblazer/AIT-StrategyX/blob/main/case-law_2015-2020_vol_ii.pdf)
+
+
 [AIT-StrategyX - Case - law](https://github.com/aitrailblazer/AIT-StrategyX/blob/main/AIT-StrategyX-case-law_2015-2020_vol_ii.pdf)
 
 https://chat.openai.com/g/g-D8ojucjoB-ait-strategix
